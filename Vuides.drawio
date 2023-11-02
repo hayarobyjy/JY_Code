@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T03:34:13.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="luFB3PMjidl6pIrOtXEs" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T08:48:16.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="k6z4T0dAxCHoueciLiRO" version="21.6.8" type="github">
   <diagram name="페이지-1" id="nFBD9s6tWVsPTREDaRuK">
     <mxGraphModel dx="1431" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dYJ-gj-vIqTjsobfaYEh-63" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="10" y="400" width="1130" height="500" as="geometry" />
+          <mxGeometry y="430" width="1130" height="500" as="geometry" />
         </mxCell>
         <mxCell id="dYJ-gj-vIqTjsobfaYEh-23" value="로그인 시도" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dYJ-gj-vIqTjsobfaYEh-63">
           <mxGeometry width="120" height="60" as="geometry" />
