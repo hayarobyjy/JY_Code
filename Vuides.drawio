@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T08:50:49.563Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="N5MkMyRgGmBKPp3Vj8SH" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T11:40:34.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="w3Mo5rEYdJqhefeR7w7o" version="22.0.8" type="github">
   <diagram name="페이지-1" id="nFBD9s6tWVsPTREDaRuK">
     <mxGraphModel dx="1631" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -157,7 +157,7 @@
         <mxCell id="FpqyPyuLQlU0UKHhYTCx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FpqyPyuLQlU0UKHhYTCx-2" target="FpqyPyuLQlU0UKHhYTCx-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FpqyPyuLQlU0UKHhYTCx-5" value="ID방식" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FpqyPyuLQlU0UKHhYTCx-5" value="카카오톡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FpqyPyuLQlU0UKHhYTCx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FpqyPyuLQlU0UKHhYTCx-3" target="FpqyPyuLQlU0UKHhYTCx-5">
@@ -169,7 +169,7 @@
         <mxCell id="FpqyPyuLQlU0UKHhYTCx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FpqyPyuLQlU0UKHhYTCx-3" target="FpqyPyuLQlU0UKHhYTCx-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FpqyPyuLQlU0UKHhYTCx-9" value="본인 인증" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FpqyPyuLQlU0UKHhYTCx-9" value="DB저장" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FpqyPyuLQlU0UKHhYTCx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="FpqyPyuLQlU0UKHhYTCx-5" target="FpqyPyuLQlU0UKHhYTCx-9">
@@ -178,13 +178,13 @@
         <mxCell id="FpqyPyuLQlU0UKHhYTCx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FpqyPyuLQlU0UKHhYTCx-7" target="FpqyPyuLQlU0UKHhYTCx-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FpqyPyuLQlU0UKHhYTCx-12" value="개인정보 저장&lt;br&gt;암호화??" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FpqyPyuLQlU0UKHhYTCx-12" value="모델링???" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FpqyPyuLQlU0UKHhYTCx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FpqyPyuLQlU0UKHhYTCx-9" target="FpqyPyuLQlU0UKHhYTCx-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FpqyPyuLQlU0UKHhYTCx-14" value="가입완료" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FpqyPyuLQlU0UKHhYTCx-14" value="운전만해앱에서 TTS송출" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FpqyPyuLQlU0UKHhYTCx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FpqyPyuLQlU0UKHhYTCx-12" target="FpqyPyuLQlU0UKHhYTCx-14">
